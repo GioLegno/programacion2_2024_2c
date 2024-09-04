@@ -6,3 +6,5 @@ Giovanni Legnoverde - 165400 - legnoverdegiovanni@gmail.com
 Matias Videla - 196660 - matiasvidelaisap@gmail.com
 
 Ezequiel Pereyra - 174232 - epereyra443@gmail.com
+
+Elian Codeido - 195240 - elian.pah@hmail.com
