@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1725408397 source:c:\users\perey.desktop-1vsdun5\desktop\tp1\main.c
+	"tp1.h"
+
+1725319992 source:c:\users\perey.desktop-1vsdun5\desktop\tp1\palidromo.c
+	"tp1.h"
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1725376601 c:\users\perey.desktop-1vsdun5\desktop\tp1\tp1.h
+	<stdbool.h>
+
+1725378211 source:c:\users\perey.desktop-1vsdun5\desktop\tp1\producto.c
+	"tp1.h"
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1725377275 source:c:\users\perey.desktop-1vsdun5\desktop\tp1\terminoseridfibonacci.c
+	"tp1.h"
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<stdint.h>
+
+1725382763 source:c:\users\perey.desktop-1vsdun5\desktop\tp1\ondadigital.c
+	"tp1.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1725313963 source:c:\users\perey.desktop-1vsdun5\desktop\tp1\subconjuntosquesumann.c
+	"tp1.h"
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
+1725311804 source:c:\users\perey.desktop-1vsdun5\desktop\tp1\mafiachina.c
+	"tp1.h"
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
+1725379154 source:c:\users\perey.desktop-1vsdun5\desktop\tp1\division.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<stdint.h>
+	<ctype.h>
+
+1725376838 source:c:\users\perey.desktop-1vsdun5\desktop\tp1\divisiblepor7.c
+	"tp1.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+
+1725321059 source:c:\users\perey.desktop-1vsdun5\desktop\tp1\agregarseparadormiles.c
+	"tp1.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1725376541 source:c:\users\perey.desktop-1vsdun5\desktop\tp1\fragmentacion.c
+	"tp1.h"
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1725321059 source:c:\users\perey.desktop-1vsdun5\desktop\tp-1-recursividad\agregarseparadormiles.c
+	"tp1.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1725376601 c:\users\perey.desktop-1vsdun5\desktop\tp-1-recursividad\tp1.h
+	<stdbool.h>
+
+1725376838 source:c:\users\perey.desktop-1vsdun5\desktop\tp-1-recursividad\divisiblepor7.c
+	"tp1.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+
+1725379154 source:c:\users\perey.desktop-1vsdun5\desktop\tp-1-recursividad\division.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<stdint.h>
+	<ctype.h>
+
+1725376541 source:c:\users\perey.desktop-1vsdun5\desktop\tp-1-recursividad\fragmentacion.c
+	"tp1.h"
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1725311804 source:c:\users\perey.desktop-1vsdun5\desktop\tp-1-recursividad\mafiachina.c
+	"tp1.h"
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
+1725382763 source:c:\users\perey.desktop-1vsdun5\desktop\tp-1-recursividad\ondadigital.c
+	"tp1.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1725319992 source:c:\users\perey.desktop-1vsdun5\desktop\tp-1-recursividad\palidromo.c
+	"tp1.h"
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1725378211 source:c:\users\perey.desktop-1vsdun5\desktop\tp-1-recursividad\producto.c
+	"tp1.h"
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1725313963 source:c:\users\perey.desktop-1vsdun5\desktop\tp-1-recursividad\subconjuntosquesumann.c
+	"tp1.h"
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
+1725377275 source:c:\users\perey.desktop-1vsdun5\desktop\tp-1-recursividad\terminoseridfibonacci.c
+	"tp1.h"
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<stdint.h>
+
+1725554782 source:c:\users\perey.desktop-1vsdun5\desktop\tp-1-recursividad\main.c
+	"tp1.h"
+
