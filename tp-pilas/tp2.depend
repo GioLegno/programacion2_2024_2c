@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1726768593 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\listas_arreglos .c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	"tipo_elemento.h"
+
+1725923038 c:\users\perey.desktop-1vsdun5\desktop\tp2\listas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1726162442 c:\users\perey.desktop-1vsdun5\desktop\tp2\tipo_elemento.h
+
+1725923756 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\listas_punteros.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	"tipo_elemento.h"
+
+1725777751 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1726772922 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\main.c
+	<stdio.h>
+	"tp2.h"
+	"listas.h"
+
+1726770028 c:\users\perey.desktop-1vsdun5\desktop\tp2\tp2.h
+	<stdbool.h>
+
+1726771210 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\ejercicio2a.c
+	"tp2.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	"tipo_elemento.h"
+	"listas.h"
+
+1726771198 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\ejercicio2b.c
+	"tp2.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	"tipo_elemento.h"
+	"listas.h"
+
+1726771410 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\ejercicio2c.c
+	"tp2.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"tipo_elemento.h"
+	"listas.h"
+
+1726184809 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\utils,c.c
+	"tp2.h"
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+
+1726547278 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\utils.c
+	"tp2.h"
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	"listas.h"
+
+1726615284 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\ejercicio3.c
+	<stdio.h>
+	<stdbool.h>
+	"tp2.h"
+	"listas.h"
+	"tipo_elemento.h"
+
+1726614809 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\ejercicio4.c
+	<stdio.h>
+	<stdbool.h>
+	"tp2.h"
+	"listas.h"
+	"tipo_elemento.h"
+
+1726615523 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\ejercicio6.c
+	<stdio.h>
+	<stdbool.h>
+	"tp2.h"
+	"listas.h"
+	"tipo_elemento.h"
+
+1726772205 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\ejercicio2d.c
+	"tp2.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	"tipo_elemento.h"
+	"listas.h"
+
+1726547146 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\ejercicio1.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<ctype.h>
+	"tp2.h"
+	"tipo_elemento.h"
+	"listas.h"
+
+1726772883 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\ejercicio5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"listas.h"
+	"tp2.h"
+
+1726757245 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\funciones_reutilizables.c
+	"tp2.h"
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	"listas.h"
+
+1726755832 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\ejercicio2g.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	"listas.h"
+	"tipo_elemento.h"
+	"tp2.h"
+
+1726758068 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\ejercicio2h.c
+	"tp2.h"
+	<stdio.h>
+	<stdlib.h>
+	"tipo_elemento.h"
+	"listas.h"
+
+1726770171 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\ejercicio2e.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	"listas.h"
+	"tp2.h"
+
+1726772401 source:c:\users\perey.desktop-1vsdun5\desktop\tp2\ejercicio2f.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	"tipo_elemento.h"
+	"listas.h"
+	"tp2.h"
+
