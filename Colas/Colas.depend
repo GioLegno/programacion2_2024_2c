@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1728334027 source:c:\users\perey.desktop-1vsdun5\desktop\colas\colas_arreglos.c
+	"colas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1728396447 c:\users\perey.desktop-1vsdun5\desktop\colas\colas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1726162442 c:\users\perey.desktop-1vsdun5\desktop\colas\tipo_elemento.h
+
+1725777751 source:c:\users\perey.desktop-1vsdun5\desktop\colas\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1728585031 source:c:\users\perey.desktop-1vsdun5\desktop\colas\funciones_reutilizables.c
+	"tp4.h"
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	"pilas.h"
+
+1728591195 c:\users\perey.desktop-1vsdun5\desktop\colas\tp4.h
+	<stdbool.h>
+
+1726795850 c:\users\perey.desktop-1vsdun5\desktop\colas\pilas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1727300896 source:c:\users\perey.desktop-1vsdun5\desktop\colas\pilas_arreglos.c
+	"pilas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1728605493 source:c:\users\perey.desktop-1vsdun5\desktop\colas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+	"tipo_elemento.h"
+	"pilas.h"
+	"tp4.h"
+
+1728604985 source:c:\users\perey.desktop-1vsdun5\desktop\colas\ejercicio4.c
+	<stdio.h>
+	<stdbool.h>
+	"colas.h"
+	"tp4.h"
+
+1728605444 source:c:\users\perey.desktop-1vsdun5\desktop\colas\ejercicio6.c
+	<stdio.h>
+	"colas.h"
+	"pilas.h"
+	"listas.h"
+	"tipo_elemento.h"
+	"tp4.h"
+
+1725923038 c:\users\perey.desktop-1vsdun5\desktop\colas\listas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1725923756 source:c:\users\perey.desktop-1vsdun5\desktop\colas\listas_punteros.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	"tipo_elemento.h"
+
+1728582630 source:c:\users\perey.desktop-1vsdun5\desktop\colas\ejercicio7.c
+	<stdio.h>
+	<stdbool.h>
+	"colas.h"
+	"tp4.h"
+	"tipo_elemento.h"
+
+1728604893 source:c:\users\perey.desktop-1vsdun5\desktop\colas\ejercicio3.c
+	<stdio.h>
+	<stdbool.h>
+	"colas.h"
+	"tp4.h"
+	"tipo_elemento.h"
+
+1728604078 source:c:\users\perey.desktop-1vsdun5\desktop\colas\ejercicio2a.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"colas.h"
+	"tipo_elemento.h"
+	"tp4.h"
+
+1728604341 source:c:\users\perey.desktop-1vsdun5\desktop\colas\ejercicio2b.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+	"tipo_elemento.h"
+	"tp4.h"
+
+1728604429 source:c:\users\perey.desktop-1vsdun5\desktop\colas\ejercicio2c.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+	"tipo_elemento.h"
+	"tp4.h"
+	<stdbool.h>
+
+1728604492 source:c:\users\perey.desktop-1vsdun5\desktop\colas\ejercicio2d.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+	"tipo_elemento.h"
+	"tp4.h"
+	<stdbool.h>
+
+1728604544 source:c:\users\perey.desktop-1vsdun5\desktop\colas\ejercicio2e.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+	"tipo_elemento.h"
+	"tp4.h"
+	<stdbool.h>
+
+1728604571 source:c:\users\perey.desktop-1vsdun5\desktop\colas\ejercicio2f.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+	"tipo_elemento.h"
+	"pilas.h"
+	"tp4.h"
+	<stdbool.h>
+
+1728605283 source:c:\users\perey.desktop-1vsdun5\desktop\colas\ejercicio5.c
+	<stdio.h>
+	<stdbool.h>
+	"colas.h"
+	"tp4.h"
+
+1727300907 source:c:\users\perey.desktop-1vsdun5\desktop\colas\pilas_punteros.c
+	"pilas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
