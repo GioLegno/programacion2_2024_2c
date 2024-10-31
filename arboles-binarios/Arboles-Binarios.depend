@@ -1,0 +1,194 @@
+# depslib dependency file v1.0
+1729733041 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\ejercicio1a.c
+	"tp5.h"
+	"listas.h"
+	"arbol-binario.h"
+	<stdio.h>
+
+1730407109 c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\tp5.h
+	<stdbool.h>
+	"listas.h"
+
+1725923038 c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\listas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1726162442 c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\tipo_elemento.h
+
+1725923756 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\listas_punteros.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	"tipo_elemento.h"
+
+1730405142 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol-binario.h"
+	"tipo_elemento.h"
+	"tp5.h"
+
+1725777751 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1728941460 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	".\nodo.h"
+
+1729121598 c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\nodo.h
+	"tipo_elemento.h"
+
+1729122176 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\colas_punteros.c
+	"colas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1729122176 c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\colas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1729735211 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\arbol-avl.c
+	"nodo.h"
+	"arbol-avl.h"
+
+1729122429 c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\arbol-avl.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1729122420 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\arbol-binario-busqueda.c
+	"arbol-binario-busqueda.h"
+	"nodo.h"
+
+1729122392 c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\arbol-binario-busqueda.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"tipo_elemento.h"
+
+1729735208 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\arbol-binario.c
+	<stdlib.h>
+	<string.h>
+	"arbol-binario.h"
+	"colas.h"
+	"nodo.h"
+
+1729121588 c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\arbol-binario.h
+	<stdbool.h>
+	"nodo.h"
+	"tipo_elemento.h"
+
+1729610828 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\ejemplo.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol-binario.h"
+	"tipo_elemento.h"
+	"colas.h"
+
+1730407105 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\funciones_reutilizables.c
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	"listas.h"
+	"tp5.h"
+
+1729734963 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\mensaje.c
+	<stdio.h>
+	<stdlib.h>
+	"listas.h"
+	"arbol-binario.h"
+	"arbol-avl.h"
+	<stdio.h>
+	<stdbool.h>
+
+1729987341 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\ejercicio4a.c
+	<stdio.h>
+	"colas.h"
+	"listas.h"
+	"arbol-binario.h"
+	"tp5.h"
+
+1730399049 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\ejercicio4.c
+	"arbol-binario.h"
+	"colas.h"
+	"listas.h"
+	"tipo_elemento.h"
+	<stdio.h>
+	<stdbool.h>
+	"tp5.h"
+	<string.h>
+
+1730399058 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\ejercicio7.c
+	"arbol-binario.h"
+	"colas.h"
+	"listas.h"
+	"tipo_elemento.h"
+	<stdio.h>
+	<stdbool.h>
+	"tp5.h"
+	<string.h>
+
+1730399027 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\ejercicio2.c
+	"arbol-binario.h"
+	"colas.h"
+	"listas.h"
+	"tipo_elemento.h"
+	<stdio.h>
+	<stdbool.h>
+	"tp5.h"
+	<string.h>
+
+1730399037 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\ejercicio3.c
+	"arbol-binario.h"
+	"colas.h"
+	"listas.h"
+	"tipo_elemento.h"
+	<stdio.h>
+	<stdbool.h>
+	"tp5.h"
+	<string.h>
+
+1730399261 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\ejercicio8.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"colas.h"
+	"listas.h"
+	"nodo.h"
+	"arbol-binario.h"
+	"tipo_elemento.h"
+	"tp5.h"
+
+1730401040 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\ejercicio9.c
+	<stdio.h>
+	<stdlib.h>
+	"listas.h"
+	"arbol-binario.h"
+	"arbol-avl.h"
+	<stdio.h>
+	<stdbool.h>
+	"tp5.h"
+
+1730407522 source:c:\users\perey.desktop-1vsdun5\desktop\arboles-binarios\ejercicio10.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"arbol-binario-busqueda.h"
+	"arbol-avl.h"
+	"nodo.h"
+	"tipo_elemento.h"
+	"tp5.h"
+
