@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="tabla-hash" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/tabla-hash" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/tabla-hash" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Ejercicio5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Ejercicio6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arbol-avl.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arbol-avl.h" />
+		<Unit filename="funciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listas.h" />
+		<Unit filename="listas_punteros.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="nodo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="nodo.h" />
+		<Unit filename="tabla_hash.h" />
+		<Unit filename="tabla_hash_lista_colisiones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tabla_hash_zona_overflow.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="tipo_elemento.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tipo_elemento.h" />
+		<Unit filename="tp6.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

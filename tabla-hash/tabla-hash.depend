@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1729735211 source:c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\arbol-avl.c
+	"nodo.h"
+	"arbol-avl.h"
+
+1729121598 c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\nodo.h
+	"tipo_elemento.h"
+
+1726162442 c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\tipo_elemento.h
+
+1729122429 c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\arbol-avl.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1731633823 source:c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\ejercicio5.c
+	"stdio.h"
+	"stdlib.h"
+	"nodo.h"
+	"arbol-avl.h"
+	"tipo_elemento.h"
+	"tabla_hash.h"
+	"listas.h"
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"tp6.h"
+
+1731618109 c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\tabla_hash.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1725923038 c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\listas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1731633362 c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\tp6.h
+	<stdbool.h>
+
+1731633842 source:c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\ejercicio6.c
+	"tabla_hash.h"
+	"tipo_elemento.h"
+	"listas.h"
+	"tp6.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1731634861 source:c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\funciones.c
+	<stdbool.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	"tp6.h"
+
+1725923756 source:c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\listas_punteros.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+	"tipo_elemento.h"
+
+1731622620 source:c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp6.h"
+
+1731000619 source:c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1731509773 source:c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\tabla_hash_lista_colisiones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"tabla_hash.h"
+	"listas.h"
+
+1731000634 source:c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1731624981 source:c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\validacion.c
+	<stdio.h>
+	"tp6.h"
+	<stdlib.h>
+
+1731633881 source:c:\users\perey.desktop-1vsdun5\desktop\tabla-hash\ejercicio4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"tabla_hash.h"
+	"tp6.h"
+	<math.h>
+	<ctype.h>
+
