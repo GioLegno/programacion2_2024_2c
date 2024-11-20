@@ -7,4 +7,4 @@ Matias Videla - 196660 - matiasvidelaisap@gmail.com
 
 Ezequiel Pereyra - 174232 - epereyra443@gmail.com
 
-Elian Codesido - 195240 - elian.pah@hmail.com
+Elian Codesido - 195240 - elian.pah@gmail.com
