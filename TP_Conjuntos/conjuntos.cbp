@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="conjuntos" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/conjuntos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/conjuntos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="TP7_pto2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TP7_pto3.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="TP7_pto4.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="TP7_pto5.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="TP7_pto6.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="TP7_pto7.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="TP7_pto8.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="arbol-avl.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arbol-avl.h" />
+		<Unit filename="conjuntos.h" />
+		<Unit filename="conjuntos_avl.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="conjuntos_listas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listas.h" />
+		<Unit filename="nodo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="nodo.h" />
+		<Unit filename="tipo_elemento.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tipo_elemento.h" />
+		<Unit filename="validacion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="validacion.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1719068072 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\arbol-avl.c
+	"nodo.h"
+	"arbol-avl.h"
+
+1719068072 d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\nodo.h
+	"tipo_elemento.h"
+
+1719068072 d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\tipo_elemento.h
+
+1719068072 d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\arbol-avl.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1719068072 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\conjuntos_listas.c
+	"conjuntos.h"
+	"listas.h"
+	<stdlib.h>
+
+1719068072 d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\conjuntos.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1719068072 d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\listas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1719068072 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+
+1719068072 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1719068072 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1732148506 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\tp7_pto2.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"validacion.h"
+	"conjuntos.h"
+	"listas.h"
+
+1719068072 d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\validacion.h
+	<stdio.h>
+
+1732148561 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\validacion.c
+	<stdio.h>
+	"validacion.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1719068072 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\tp7_pto3.c
+	"conjuntos.h"
+	<stdio.h>
+	"validacion.h"
+
+1732147618 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\tp7_pto4.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"validacion.h"
+	"conjuntos.h"
+	"listas.h"
+
+1732146121 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\tp7_pto6.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"validacion.h"
+	"conjuntos.h"
+	"listas.h"
+
+1732146359 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\tp7_pto7.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"validacion.h"
+	"conjuntos.h"
+	"listas.h"
+
+1719068072 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\conjuntos\tp7_pto8.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"validacion.h"
+	"conjuntos.h"
+	"listas.h"
+
+1719068072 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\tp_conjuntos\arbol-avl.c
+	"nodo.h"
+	"arbol-avl.h"
+
+1719068072 d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\tp_conjuntos\nodo.h
+	"tipo_elemento.h"
+
+1719068072 d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\tp_conjuntos\tipo_elemento.h
+
+1719068072 d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\tp_conjuntos\arbol-avl.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1719068072 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\tp_conjuntos\conjuntos_listas.c
+	"conjuntos.h"
+	"listas.h"
+	<stdlib.h>
+
+1719068072 d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\tp_conjuntos\conjuntos.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1719068072 d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\tp_conjuntos\listas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1719068072 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\tp_conjuntos\listas.c
+	"listas.h"
+	<stdlib.h>
+	<stdio.h>
+
+1719068072 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\tp_conjuntos\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1719068072 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\tp_conjuntos\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1719068072 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\tp_conjuntos\tp7_pto8.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"validacion.h"
+	"conjuntos.h"
+	"listas.h"
+
+1732149307 d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\tp_conjuntos\validacion.h
+	<stdio.h>
+
+1732149350 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\tp_conjuntos\validacion.c
+	<stdio.h>
+	"validacion.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1732148506 source:d:\users\damic\downloads\twek\uni\programacionii\progiicodeblock\tp_conjuntos\tp7_pto2.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"validacion.h"
+	"conjuntos.h"
+	"listas.h"
+
